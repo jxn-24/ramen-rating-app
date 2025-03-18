@@ -1,0 +1,114 @@
+#header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    top: 0;
+    left: 0;
+    padding: 10px 0px;
+    font-size: 10px;
+    font-weight: bold;
+    width: 100%;
+    position: absolute;
+    
+
+}
+
+
+body {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 50px;
+    color: black;
+    background-color: beige;
+    
+}
+#ramen-details{
+    background-color: antiquewhite;
+    border-radius: 5px;
+    text-align: center;
+    margin: 25px 15px;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 100px auto 20px;
+    text-align: center;
+    
+
+}
+
+#ramen-details img {
+    width: 40px;
+    height: 60px;
+    border: 4px black;
+    padding: 0;
+}
+
+h2 {
+        font-size: 16px;
+        margin-top: 10px;
+
+
+    }
+h3 {
+        font-size: 16px;
+        margin-top: 10px;
+
+    }
+
+p{
+        display: flex;
+        margin-bottom: 2px;
+        text-align: center;
+     
+   }
+
+
+form{
+background-color: bisque;
+flex-direction:column;
+display:flex;
+margin: 20px auto;
+border-radius: 5px;
+margin: 100px auto 20px;
+
+
+}
+
+button{
+
+margin-top: 14px;
+color:black;
+background-color: darkgray;
+padding: 20px 10px;
+
+}
+
+
+
+ramen-menu{
+    display: contents;
+    align-items: center;
+    margin-top: 100px;
+    padding: 15px;
+
+
+}
+
+#delete-ramen{
+    margin-top: 10px;
+    color: white;
+    background-color: brown;
+    padding: 20px 10px;
+    font-weight: bold;
+
+}
+
+#submit{
+    margin-top: 10px;
+    color: white;
+    background-color: brown;
+    padding: 20px 10px;
+    font-weight: bold;
+
+
+}
